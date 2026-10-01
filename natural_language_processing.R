@@ -1,0 +1,6 @@
+install.packages('tm')
+install.packages('twitteR')
+install.packages('wordcloud')
+install.packages('RColorBrewer')
+install.packages('e1017')
+install.packages('class')
